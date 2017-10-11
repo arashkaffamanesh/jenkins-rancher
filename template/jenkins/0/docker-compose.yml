@@ -6,7 +6,7 @@ jenkins:
     io.rancher.container.agent.role: environment
   ports:
     - 8000:8080
-  image: arashkaffamanesh/jenkins-rancher:latest
+  image: arashkaffamanesh/jenkins-csg:latest
   tty: true
   stdin_open: true
   volumes:

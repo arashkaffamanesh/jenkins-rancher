@@ -1,0 +1,5 @@
+.catalog:
+    name: "Jenkins Rancher"
+    version: "v0.0.1"
+    description: "Jenkins Rancher"
+    minimum_rancher_version: v1.5.5
